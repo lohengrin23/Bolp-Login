@@ -12,7 +12,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
     icon: 'home-outline',
     link: '/pages/iot-dashboard',
   },
-  {
+ /* {
     title: 'FEATURES',
     group: true,
   },
@@ -243,5 +243,5 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/auth/reset-password',
       },
     ],
-  },
+  },*/
 ];
