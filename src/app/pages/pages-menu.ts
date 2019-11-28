@@ -15,7 +15,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
  /* {
     title: 'FEATURES',
     group: true,
-  },
+  },*/
   {
     title: 'Layout',
     icon: 'layout-outline',
@@ -65,7 +65,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'UI Features',
     icon: 'keypad-outline',
     link: '/pages/ui-features',
@@ -87,7 +87,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/ui-features/search-fields',
       },
     ],
-  },
+  },*/
   {
     title: 'Modal & Overlays',
     icon: 'browser-outline',
@@ -114,7 +114,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'Extra Components',
     icon: 'message-circle-outline',
     children: [
@@ -143,8 +143,8 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/extra-components/chat',
       },
     ],
-  },
-  {
+  },*/
+  /*{
     title: 'Maps',
     icon: 'map-outline',
     children: [
@@ -165,7 +165,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/maps/searchmap',
       },
     ],
-  },
+  },*/
   {
     title: 'Charts',
     icon: 'pie-chart-outline',
@@ -184,7 +184,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'Editors',
     icon: 'text-outline',
     children: [
@@ -197,7 +197,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/editors/ckeditor',
       },
     ],
-  },
+  },*/
   {
     title: 'Tables & Data',
     icon: 'grid-outline',
@@ -222,7 +222,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'Auth',
     icon: 'lock-outline',
     children: [
